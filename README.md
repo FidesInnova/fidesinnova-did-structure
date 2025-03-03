@@ -1,4 +1,6 @@
 # Fidesinnova DiD Structure
+Designing a Decentralized Identifier (DID) structure for the FidesInnova platform requires considering how DIDs will be used within the ecosystem, particularly for zk-IoT, secure data sharing, and monetization. Below is the DID structure in FidesInnova.
+
 ## 1. DID Method Specification
 - A unique DID method must be defined for FidesInnova. The DID will follow the general format:
 ```
