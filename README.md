@@ -20,3 +20,12 @@ did:fidesinnova:device:<device-ID>
 ```  
 did:fidesinnova:device:8b1a9953c4611296a827abf8c47804d7
 ```
+- For Users:
+```
+did:fidesinnova:user:<user-hash>
+```
+- <user-hash> → A DID generated from the user’s verifiable credential (e.g., Ethereum public key)
+- Example:
+```
+did:fidesinnova:user:0x12aBcD34Ef5678...
+```
