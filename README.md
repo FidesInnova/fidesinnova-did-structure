@@ -7,10 +7,11 @@ Designing a Decentralized Identifier (DID) structure for the FidesInnova platfor
 did:fidesinnova:<method-specific-identifier>
 ```
 ## 2. DID Components
-Component	Description
-did	Standard DID prefix
-fidesinnova	The DID method name (FidesInnova-specific)
-<method-specific-identifier>	A unique identifier for an entity (device, user, organization)
+| **Component**             | **Description** |
+|--------------------------|---------------|
+| `did`                   | Standard DID prefix |
+| `fidesinnova`           | The DID method name (FidesInnova-specific) |
+| `<method-specific-identifier>` | A unique identifier for an entity (device, user, organization) |
 ## 3. Method-Specific Identifier
 - The method-specific identifier can be designed as follows:
 - For IoT Devices:
