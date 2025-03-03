@@ -33,7 +33,7 @@ did:fidesinnova:user:0x12aBcD34Ef5678...
 ```
 did:fidesinnova:org:<org-ID>
 ```
-- <org-ID> → A unique identifier assigned to organizations using zk-IoT for data access
+- \<org-ID\> → A unique identifier assigned to organizations using zk-IoT for data access
 - Example:
 ```  
 did:fidesinnova:org:trustsense
