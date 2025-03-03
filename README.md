@@ -15,7 +15,7 @@ fidesinnova	The DID method name (FidesInnova-specific)
 ```
 did:fidesinnova:device:<device-ID>
 ```
-- <device-ID> → A cryptographic hash (SHA-256, BLAKE2) of the device’s public key
+- \<device-ID\> → A cryptographic hash (SHA-256, BLAKE2) of the device’s public key
 - Example:
 ```  
 did:fidesinnova:device:8b1a9953c4611296a827abf8c47804d7
@@ -24,7 +24,7 @@ did:fidesinnova:device:8b1a9953c4611296a827abf8c47804d7
 ```
 did:fidesinnova:user:<user-hash>
 ```
-- <user-hash> → A DID generated from the user’s verifiable credential (e.g., Ethereum public key)
+- \<user-hash\> → A DID generated from the user’s verifiable credential (e.g., Ethereum public key)
 - Example:
 ```
 did:fidesinnova:user:0x12aBcD34Ef5678...
